@@ -39,7 +39,6 @@ export default function Login() {
               borderRadius={'lg'}
               backgroundColor={'gray.100'}
               shadow={3}/>
-              
             </FormControl>
           </Box>
           <Button
